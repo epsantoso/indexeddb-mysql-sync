@@ -61,7 +61,7 @@ MySQL (Server)
 
 /project-folder
 │
-├── indexedDb_Mysql.html # Aplikasi utama
+├── index.html # Aplikasi utama
 ├── api.php # REST API untuk sinkronisasi MySQL
 └── README.md
 
@@ -110,7 +110,7 @@ xampp/htdocs/nama-folder-project
 
 Lalu buka di browser:
 
-http://localhost/nama-folder-project/indexedDb_Mysql.html
+http://localhost/nama-folder-project/index.html
 🔄 Mekanisme Sinkronisasi
 
 Setiap tambah / edit / hapus data:
