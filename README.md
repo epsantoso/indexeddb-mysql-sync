@@ -4,6 +4,8 @@ Aplikasi web **offline-first** menggunakan **IndexedDB** dengan sinkronisasi oto
 
 Project ini mendemonstrasikan arsitektur hybrid local-first, di mana data selalu disimpan ke database lokal terlebih dahulu, lalu disinkronkan ke server ketika online.
 
+Addres demonstrasi = https://epsantoso.github.io/indexeddb-mysql-sync/
+
 ---
 
 ## 🚀 Fitur
